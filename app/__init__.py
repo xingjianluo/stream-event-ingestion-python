@@ -1,0 +1,1 @@
+"""Stream event ingestion service."""
